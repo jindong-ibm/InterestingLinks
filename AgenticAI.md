@@ -16,3 +16,7 @@
 15. Framework to build voice and multimodal conversational agents: https://github.com/pipecat-ai 
 16. Eliza: A Web3 friendly AI Agent OS: https://github.com/elizaOS/eliza AutoGPT: https://github.com/Significant-Gravitas/AutoGPT
 17. Web agent builder: https://github.com/browserbase/open-operator
+
+### Some related blogs:
+1. https://engineering.salesforce.com/how-salesforces-new-ea-agent-scales-ai-to-transform-enterprise-architecture/
+2. 
