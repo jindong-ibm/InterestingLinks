@@ -14,9 +14,10 @@
 13. Phidata: https://github.com/phidatahq/phidata 
 14. OpenHands: https://github.com/All-Hands-AI/OpenHands
 15. MetaGPT: https://github.com/geekan/MetaGPT
-16. Framework to build voice and multimodal conversational agents: https://github.com/pipecat-ai 
-17. Eliza: A Web3 friendly AI Agent OS: https://github.com/elizaOS/eliza AutoGPT: https://github.com/Significant-Gravitas/AutoGPT
-18. Web agent builder: https://github.com/browserbase/open-operator
+16. Block's Goose: https://block.github.io/goose/
+17. Framework to build voice and multimodal conversational agents: https://github.com/pipecat-ai 
+18. Eliza: A Web3 friendly AI Agent OS: https://github.com/elizaOS/eliza AutoGPT: https://github.com/Significant-Gravitas/AutoGPT
+19. Web agent builder: https://github.com/browserbase/open-operator
 
 ### Some related blogs:
 1. https://engineering.salesforce.com/how-salesforces-new-ea-agent-scales-ai-to-transform-enterprise-architecture/
