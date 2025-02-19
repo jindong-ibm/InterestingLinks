@@ -22,6 +22,10 @@
 4. Eliza: A Web3 friendly AI Agent OS: https://github.com/elizaOS/eliza
 5. Web agent builder: https://github.com/browserbase/open-operator
 
+### AgentOps
+1. https://www.agentops.ai/
+2. AgentOps: Enabling Observability of LLM Agents: https://arxiv.org/pdf/2411.05285
+
 ### Agent benchmarks
 1. https://blog.langchain.dev/react-agent-benchmarking/
 2. https://huggingface.co/spaces/galileo-ai/agent-leaderboard
