@@ -1,4 +1,5 @@
 ### Open source agent builder framework
+#### General purpose
 1. LangGraph: https://github.com/langchain-ai/langgraph 
 2. OpenAI swarm*: https://github.com/openai/swarm 
 3. Salesforce AgentLite: https://github.com/SalesforceAIResearch/AgentLite/ 
@@ -12,13 +13,14 @@
 11. Crewai: https://www.crewai.com/open-source 
 12. PydanticAI: https://ai.pydantic.dev/ 
 13. Phidata: https://github.com/phidatahq/phidata 
-14. OpenHands: https://github.com/All-Hands-AI/OpenHands
-15. MetaGPT: https://github.com/geekan/MetaGPT
-16. Block's Goose: https://block.github.io/goose/
-17. Framework to build voice and multimodal conversational agents: https://github.com/pipecat-ai 
-18. Eliza: A Web3 friendly AI Agent OS: https://github.com/elizaOS/eliza
-19. AutoGPT: https://github.com/Significant-Gravitas/AutoGPT
-20. Web agent builder: https://github.com/browserbase/open-operator
+16. AutoGPT: https://github.com/Significant-Gravitas/AutoGPT
+17. Block's Goose: https://block.github.io/goose/
+#### domain specific
+1. MetaGPT: https://github.com/geekan/MetaGPT
+2. Framework to build voice and multimodal conversational agents: https://github.com/pipecat-ai
+3. OpenHands: https://github.com/All-Hands-AI/OpenHands
+4. Eliza: A Web3 friendly AI Agent OS: https://github.com/elizaOS/eliza
+5. Web agent builder: https://github.com/browserbase/open-operator
 
 ### Agent benchmarks
 1. https://blog.langchain.dev/react-agent-benchmarking/
