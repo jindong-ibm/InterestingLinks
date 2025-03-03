@@ -23,6 +23,9 @@
 4. Eliza: A Web3 friendly AI Agent OS: https://github.com/elizaOS/eliza
 5. Web agent builder: https://github.com/browserbase/open-operator
 
+### Utility tools
+1. Composio helps connect AI agents to external tools: https://docs.composio.dev/introduction/intro/overview
+
 ### AgentOps
 1. https://www.agentops.ai/
 2. AgentOps: Enabling Observability of LLM Agents: https://arxiv.org/pdf/2411.05285
