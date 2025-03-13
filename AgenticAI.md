@@ -26,7 +26,8 @@
 5. Web agent builder: https://github.com/browserbase/open-operator
 
 ### Utility tools
-1. Composio helps connect AI agents to external tools: https://docs.composio.dev/introduction/intro/overview
+1. Langflow: https://github.com/langflow-ai/langflow
+2. Composio helps connect AI agents to external tools: https://docs.composio.dev/introduction/intro/overview
 
 ### AgentOps
 1. https://www.agentops.ai/
