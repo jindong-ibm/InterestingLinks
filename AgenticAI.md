@@ -35,8 +35,9 @@
 
 ### Agent benchmarks
 1. https://blog.langchain.dev/react-agent-benchmarking/
-2. https://huggingface.co/spaces/galileo-ai/agent-leaderboard
-3. TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks: https://arxiv.org/pdf/2412.14161
+2. https://docs.galileo.ai/galileo
+3. https://huggingface.co/spaces/galileo-ai/agent-leaderboard
+4. TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks: https://arxiv.org/pdf/2412.14161
 
 ### Other related blogs:
 1. https://engineering.salesforce.com/how-salesforces-new-ea-agent-scales-ai-to-transform-enterprise-architecture/
