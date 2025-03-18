@@ -19,6 +19,8 @@
 16. AutoGPT: https://github.com/Significant-Gravitas/AutoGPT
 17. Block's Goose: https://block.github.io/goose/
 18. Stanford Octotools: https://github.com/octotools/octotools
+19. Nvidia AgentIQ: https://github.com/NVIDIA/AgentIQ
+
 #### domain specific
 1. MetaGPT: https://github.com/geekan/MetaGPT
 2. Framework to build voice and multimodal conversational agents: https://github.com/pipecat-ai
