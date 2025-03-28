@@ -32,6 +32,7 @@
 1. Langflow: https://github.com/langflow-ai/langflow
 2. Agntcy for Internet of Agents Collective: https://github.com/agntcy
 3. Composio helps connect AI agents to external tools: https://docs.composio.dev/introduction/intro/overview
+4. Agentic Memory: https://github.com/agiresearch/A-mem
 
 ### AgentOps
 1. https://www.agentops.ai/
