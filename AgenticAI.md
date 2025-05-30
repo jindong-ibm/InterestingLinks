@@ -27,6 +27,7 @@
 3. OpenHands: https://github.com/All-Hands-AI/OpenHands
 4. Eliza: A Web3 friendly AI Agent OS: https://github.com/elizaOS/eliza
 5. Web agent builder: https://github.com/browserbase/open-operator
+6. Magentic UI: https://github.com/microsoft/Magentic-UI
 
 ### Utility tools
 1. Langflow: https://github.com/langflow-ai/langflow
