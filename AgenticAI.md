@@ -20,6 +20,7 @@
 17. Block's Goose: https://block.github.io/goose/
 18. Stanford Octotools: https://github.com/octotools/octotools
 19. Nvidia AgentIQ: https://github.com/NVIDIA/AgentIQ
+20. Autonomous GPT-4 Agent Platform: https://github.com/kreneskyp/ix
 
 #### domain specific
 1. MetaGPT: https://github.com/geekan/MetaGPT
